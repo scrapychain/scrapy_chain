@@ -72,7 +72,7 @@ On-disk chain storage, basic P2P networking between nodes.
 
 ## Built By
 
-[Ash](https://github.com/yourusername) - Software engineer learning blockchain development by building it from scratch. Documenting the journey in public.
+[Ashutosh akascrapychain](https://github.com/scrapychain) - Software engineer learning blockchain development by building it from scratch. Documenting the journey in public.
 
 ## License
 
